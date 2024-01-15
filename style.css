@@ -1,0 +1,67 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+nav{
+    background-color: #333;
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-buttom : 3rem;
+    top: 0;
+    possition : absolute;
+    color : #f1f1f1
+}
+
+.avatar2 img{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.box {
+    background-color: #f2f2f2;
+    padding : 20px;
+    border-radius: 10px;
+}
+
+
+.title {
+  font-size: 24px;
+  color: #333;
+}
+
+.description {
+  font-size: 18px;
+  color: #666;
+  margin-top: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.navbar {
+  margin: auto;
+  justify-content:  space-around;
+  align-items: center;
+  display: flex;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  color: #fff;
+}
+
