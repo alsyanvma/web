@@ -1,57 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
-  <diagram name="Page-1" id="gF3jAjVGjFKLHG-XjP7I">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Page-1" id="iW4bsArgRfTZqQeM6MDP">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-2" value="Guru" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="280" width="90" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="210" width="210" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-6" value="Siswa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="280" width="90" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-7" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-8" value="Isi Kehadiran&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Login%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22400%22%20y%3D%22230%22%20width%3D%22120%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="330" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-9" value="Melihat Rekap" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="430" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.017;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Iv7Co-_an_2klBfU_7K4-6" target="Iv7Co-_an_2klBfU_7K4-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="sourcePoint" />
-            <mxPoint x="450" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Iv7Co-_an_2klBfU_7K4-6" target="Iv7Co-_an_2klBfU_7K4-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="481" as="sourcePoint" />
-            <mxPoint x="392" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.975;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Iv7Co-_an_2klBfU_7K4-7" target="Iv7Co-_an_2klBfU_7K4-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="391" as="sourcePoint" />
-            <mxPoint x="602" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Iv7Co-_an_2klBfU_7K4-8" target="Iv7Co-_an_2klBfU_7K4-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="370" as="sourcePoint" />
-            <mxPoint x="633" y="442" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Iv7Co-_an_2klBfU_7K4-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Iv7Co-_an_2klBfU_7K4-9" target="Iv7Co-_an_2klBfU_7K4-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="460" as="sourcePoint" />
-            <mxPoint x="645" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
